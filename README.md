@@ -46,7 +46,7 @@ From the screens, the key problems solved are:
 
 •	Decision-making gaps → Marketing and curation teams can now identify which artists/songs to promote, trends to follow, and which content resonates with audiences.
 
-# DASHBOARD
+# DASHBOARD REVIEW
 
 <img src="Spotify Dashboard.png" alt="Spotify Dashboard width=800">
 
