@@ -33,11 +33,17 @@ An end-to-end data analytics and visualization dashboard built to analyze stream
 # Problem Statement
 Currently, Spotify’s raw “Top 50” dataset is limited to lists and rankings, making it difficult for stakeholders to see patterns and take insights quickly.
 From the screens, the key problems solved are:
+
 •	No clear KPI monitoring → Dashboard provides quick summary of total songs, artists, popularity, duration, etc.
+
 •	Lack of explicit vs non-explicit analysis → Users can compare how explicit songs perform vs non-explicit.
+
 •	Difficulty in tracking song/album distribution → Visuals show breakdown by album type and release year.
+
 •	Trend visibility missing → Popularity and distinct songs trends are shown over time (monthly & yearly).
+
 •	Artist vs Song level insights not connected → Drill-down pages for Artists and Songs connect overview insights to detailed records.
+
 •	Decision-making gaps → Marketing and curation teams can now identify which artists/songs to promote, trends to follow, and which content resonates with audiences.
 
 
